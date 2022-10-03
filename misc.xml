@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/SEG_2105_Labs/Deliverable1/app/src/main/res/layout/activity_login.xml" value="0.36666666666666664" />
+        <entry key="..\:/SEG_2105_Labs/Deliverable1/app/src/main/res/layout/activity_main.xml" value="0.2957427536231884" />
+        <entry key="..\:/SEG_2105_Labs/Term_Project/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.3828125" />
+        <entry key="..\:/SEG_2105_Labs/Term_Project/app/src/main/res/drawable/ic_launcher_background.xml" value="0.3828125" />
+        <entry key="..\:/SEG_2105_Labs/Term_Project/app/src/main/res/layout/activity_admin_home.xml" value="0.36666666666666664" />
+        <entry key="..\:/SEG_2105_Labs/Term_Project/app/src/main/res/layout/activity_admin_main.xml" value="0.33" />
+        <entry key="..\:/SEG_2105_Labs/Term_Project/app/src/main/res/layout/activity_admin_welcome.xml" value="0.36666666666666664" />
+        <entry key="..\:/SEG_2105_Labs/Term_Project/app/src/main/res/layout/activity_home.xml" value="0.36666666666666664" />
+        <entry key="..\:/SEG_2105_Labs/Term_Project/app/src/main/res/layout/activity_instructor_home.xml" value="0.2625" />
+        <entry key="..\:/SEG_2105_Labs/Term_Project/app/src/main/res/layout/activity_instructor_page.xml" value="0.2625" />
+        <entry key="..\:/SEG_2105_Labs/Term_Project/app/src/main/res/layout/activity_login.xml" value="0.25769927536231885" />
+        <entry key="..\:/SEG_2105_Labs/Term_Project/app/src/main/res/layout/activity_login_admin.xml" value="0.36666666666666664" />
+        <entry key="..\:/SEG_2105_Labs/Term_Project/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/SEG_2105_Labs/Term_Project/app/src/main/res/layout/list_item.xml" value="0.303125" />
+        <entry key="..\:/Users/Calvin/Documents/Introduction to Software Engineering/Term Project/Term_Project/app/src/main/res/layout/activity_edit_class.xml" value="0.2847457627118644" />
+        <entry key="..\:/Users/Calvin/Documents/Introduction to Software Engineering/Term Project/Term_Project/app/src/main/res/layout/activity_home.xml" value="0.33" />
+        <entry key="..\:/Users/Calvin/Documents/Introduction to Software Engineering/Term Project/Term_Project/app/src/main/res/layout/activity_instructor_home.xml" value="0.25" />
+        <entry key="..\:/Users/Calvin/Documents/Introduction to Software Engineering/Term Project/Term_Project/app/src/main/res/layout/activity_instructor_login.xml" value="0.1" />
+        <entry key="..\:/Users/Calvin/Documents/Introduction to Software Engineering/Term Project/Term_Project/app/src/main/res/layout/activity_instructor_page.xml" value="0.21212121212121213" />
+        <entry key="..\:/Users/Calvin/Documents/Introduction to Software Engineering/Term Project/Term_Project/app/src/main/res/layout/activity_instructor_sign_up.xml" value="0.33" />
+        <entry key="..\:/Users/Calvin/Documents/Introduction to Software Engineering/Term Project/Term_Project/app/src/main/res/layout/activity_login.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/Calvin/Documents/Introduction to Software Engineering/Term Project/Term_Project/app/src/main/res/layout/activity_login_admin.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/Calvin/Documents/Introduction to Software Engineering/Term Project/Term_Project/app/src/main/res/layout/activity_main.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/Calvin/Documents/Introduction to Software Engineering/Term Project/Term_Project/app/src/main/res/layout/activity_manage_account.xml" value="0.17831813576494426" />
+        <entry key="..\:/Users/Calvin/Documents/Introduction to Software Engineering/Term Project/Term_Project/app/src/main/res/layout/dialog_instructor_create_class.xml" value="0.2966485507246377" />
+        <entry key="..\:/Users/Calvin/Documents/Introduction to Software Engineering/Term Project/Term_Project/app/src/main/res/layout/list_item.xml" value="0.2966485507246377" />
+        <entry key="..\:/Users/Calvin/Documents/Introduction to Software Engineering/Term Project/Term_Project/app/src/main/res/layout/list_item2.xml" value="0.18034447821681865" />
+        <entry key="..\:/Users/awyat049/OneDrive/Ottawa U/Year 2/Fall (OneDrive)/SEG2105/Project/Term_Project/app/src/main/res/layout/activity_admin_edit_class.xml" value="0.3875" />
+        <entry key="..\:/Users/awyat049/OneDrive/Ottawa U/Year 2/Fall (OneDrive)/SEG2105/Project/Term_Project/app/src/main/res/layout/activity_admin_main.xml" value="0.3875" />
+        <entry key="..\:/Users/awyat049/OneDrive/Ottawa U/Year 2/Fall (OneDrive)/SEG2105/Project/Term_Project/app/src/main/res/layout/activity_admin_manage_accounts.xml" value="0.38405797101449274" />
+        <entry key="..\:/Users/awyat049/OneDrive/Ottawa U/Year 2/Fall (OneDrive)/SEG2105/Project/Term_Project/app/src/main/res/layout/activity_admin_welcome.xml" value="0.21927083333333333" />
+        <entry key="..\:/Users/awyat049/OneDrive/Ottawa U/Year 2/Fall (OneDrive)/SEG2105/Project/Term_Project/app/src/main/res/layout/activity_home.xml" value="0.33" />
+        <entry key="..\:/Users/awyat049/OneDrive/Ottawa U/Year 2/Fall (OneDrive)/SEG2105/Project/Term_Project/app/src/main/res/layout/activity_login.xml" value="0.21927083333333333" />
+        <entry key="..\:/Users/awyat049/OneDrive/Ottawa U/Year 2/Fall (OneDrive)/SEG2105/Project/Term_Project/app/src/main/res/layout/activity_login_admin.xml" value="0.21927083333333333" />
+        <entry key="..\:/Users/awyat049/OneDrive/Ottawa U/Year 2/Fall (OneDrive)/SEG2105/Project/Term_Project/app/src/main/res/layout/activity_main.xml" value="0.21927083333333333" />
+        <entry key="..\:/Users/awyat049/OneDrive/Ottawa U/Year 2/Fall (OneDrive)/SEG2105/Project/Term_Project/app/src/main/res/layout/activity_manage_account.xml" value="0.38405797101449274" />
+        <entry key="..\:/Users/awyat049/OneDrive/Ottawa U/Year 2/Fall (OneDrive)/SEG2105/Project/Term_Project/app/src/main/res/layout/dialog_edit_instructor_class.xml" value="0.33" />
+        <entry key="..\:/Users/awyat049/OneDrive/Ottawa U/Year 2/Fall (OneDrive)/SEG2105/Project/Term_Project/app/src/main/res/layout/dialog_instructor_create_class.xml" value="0.5" />
+        <entry key="..\:/Users/awyat049/OneDrive/Ottawa U/Year 2/Fall (OneDrive)/SEG2105/Project/Term_Project/app/src/main/res/layout/dialog_view_class.xml" value="0.3421875" />
+        <entry key="..\:/Users/awyat049/OneDrive/Ottawa U/Year 2/Fall (OneDrive)/SEG2105/Project/Term_Project/app/src/main/res/layout/instructor_edit.xml" value="0.32760416666666664" />
+        <entry key="..\:/Users/awyat049/OneDrive/Ottawa U/Year 2/Fall (OneDrive)/SEG2105/Project/Term_Project/app/src/main/res/layout/list_item.xml" value="0.21927083333333333" />
+        <entry key="..\:/Users/awyat049/OneDrive/Ottawa U/Year 2/Fall (OneDrive)/SEG2105/Project/Term_Project/app/src/main/res/layout/list_item2.xml" value="0.21927083333333333" />
+        <entry key="..\:/Users/awyat049/OneDrive/Ottawa U/Year 2/Fall (OneDrive)/SEG2105/Project/Term_Project/app/src/main/res/layout/list_item3.xml" value="0.32760416666666664" />
+        <entry key="..\:/Users/awyat049/OneDrive/Ottawa U/Year 2/Fall (OneDrive)/SEG2105/Project/Term_Project/app/src/main/res/layout/list_item4.xml" value="0.309375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
